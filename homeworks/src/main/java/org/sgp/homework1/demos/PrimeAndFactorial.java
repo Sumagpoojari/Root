@@ -1,4 +1,4 @@
-package org.sgp.demo.demos;
+package org.sgp.homework1.demos;
 
 public class PrimeAndFactorial {
     private int checkNum;

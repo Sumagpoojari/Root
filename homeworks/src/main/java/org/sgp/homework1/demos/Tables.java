@@ -1,6 +1,6 @@
-package org.sgp.demo.demos;
+package org.sgp.homework1.demos;
 
-import org.sgp.demo.DemoLog;
+import org.sgp.homework1.DemoLog;
 
 public class Tables implements DemoLog {
     //tables for a number

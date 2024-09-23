@@ -1,4 +1,4 @@
-package org.sgp.demo;
+package org.sgp.homework1;
 
 public interface DemoLog {
     void tables();

@@ -1,9 +1,9 @@
-package org.sgp.demo;
+package org.sgp.homework1;
 
-import org.sgp.demo.demos.CalculatePercentage;
-import org.sgp.demo.demos.OddEven;
-import org.sgp.demo.demos.PrimeAndFactorial;
-import org.sgp.demo.demos.Tables;
+import org.sgp.homework1.demos.CalculatePercentage;
+import org.sgp.homework1.demos.OddEven;
+import org.sgp.homework1.demos.PrimeAndFactorial;
+import org.sgp.homework1.demos.Tables;
 
 public class DemoMain {
     public  static void main(String [] args){
